@@ -1,5 +1,5 @@
-### Hello
-# Technology stack with experience in implementing functions
+
+# 시간내어 방문해 주셔서 감사합니다
 
 ### Programing Languages
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)](#)
